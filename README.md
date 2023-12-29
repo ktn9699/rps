@@ -1,2 +1,5 @@
-# The Odin Project: Rock, Paper, Scissors Game! 
-Live preview: https://ktn9699.github.io/rps/
+# 🔴 The Odin Project: Rock, Paper, Scissors Game!  🔴
+
+### ⭐ Created with HTML, CSS, JS ⭐
+#### Live Demo: https://ktn9699.github.io/rps/
+
